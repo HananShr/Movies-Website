@@ -45,20 +45,13 @@ This project uses a **free public movie API** to fetch movie data dynamically.
 
 ## 📸 Screenshots
 
-> /screenshots/home_page.png
-> /screenshots/favorite_list.png
+### Home Page
 
----
+![Home Page](./screenshots/home_page.png)
 
-## 📂 Project Structure
+### Favorites Page
 
-src/
-├── components/
-├── contexts/
-├── pages/
-├── services/
-├── css/
-└── App.jsx
+![Favorites](./screenshots/favorite_list.png)
 
 ---
 
@@ -68,4 +61,16 @@ src/
 
 ```bash
 git clone https://github.com/your-username/movie-app.git
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the project
+
+```bash
+npm run dev
 ```
